@@ -1,4 +1,14 @@
 title: Krzysztof Ploch Resume
-description: Experienced software developer and architect fascinated with everything related to software developmenr.
+description: Experienced software developer and architect fascinated with everything related to software development.
+tagline: Kris Ploch - Software developer and architect.
 show_downloads: false
 theme: jekyll-theme-cayman
+social:
+  name: Krzysztof Ploch
+  links:
+    - https://www.facebook.com/krzysztof.ploch
+    - https://www.linkedin.com/in/netdeveloper
+    - https://github.com/kploch
+    - https://github.com/mrploch
+plugins:
+  - jekyll-seo-tag
