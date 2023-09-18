@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Krzysztof Ploch
 modified: 2023-09-18T21:04:56.503Z
 ---
@@ -11,10 +11,8 @@ Development.
 I'm focused on customer and developer satisfaction by delivering maintainable solutions
 with a heavy push for automation.
 
-<div id="webaddress">
-<a href="kris@ploch.dev">kris@ploch.dev</a>
-| <a href="https://www.linkedin.com/in/netdeveloper/">My LinkedIn profile</a>
-</div>
+<kris@ploch.dev>
+My LinkedIn profile <https://www.linkedin.com/in/netdeveloper/>
 
 ## Currently
 

@@ -1,1 +1,4 @@
-theme: cayman
+title: Krzysztof Ploch Resume
+description: Experienced software developer and architect fascinated with everything related to software developmenr.
+show_downloads: false
+theme: jekyll-theme-cayman
