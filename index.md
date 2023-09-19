@@ -3,6 +3,7 @@ layout: default
 title: Krzysztof Ploch
 modified: 2023-09-18T21:04:56.503Z
 ---
+
 # Krzysztof Ploch
 
 Mobile: (+48) 533 051 519, (+44) 78 188 13 122
@@ -21,7 +22,7 @@ My focus is the customer and developer satisfaction by delivering maintainable s
 ## Currently
 
 The main development ecosystem I\'m working in is the .NET (.NET 7) which I have the expert knowledge of.
-I am architecting and implementing solutions for structured and unstructured data ingestion and processing for the [https://www.microfocus.com/en-us/cyberres/data-privacy-protection/voltage-fusion](https://www.microfocus.com/en-us/cyberres/data-privacy-protection/voltage-fusion).
+I am architecting and implementing solutions for structured and unstructured data ingestion and processing for the [Open Text Voltage Fusion](https://www.microfocus.com/en-us/cyberres/data-privacy-protection/voltage-fusion).
 
 One of my recent addition to this suite was a framework for building agents which plug into the platform and allow analysis of an
 new repository types.
