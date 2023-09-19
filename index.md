@@ -6,9 +6,10 @@ modified: 2023-09-18T21:04:56.503Z
 # Krzysztof Ploch
 
 Mobile: (+48) 533 051 519, (+44) 78 188 13 122
-Email: <kris@ploch.dev>
-LinkedIn: <http://www.linkedin.com/in/netdeveloper>
-D.O.B. 13 March 1978
+
+Email: <kris@ploch.dev><br/>
+LinkedIn: <http://www.linkedin.com/in/netdeveloper><br/>
+D.O.B. 13 March 1978<br/>
 Citizenship: British, Polish
 
 ## SUMMARY
@@ -79,7 +80,7 @@ Besides software development, I have a few other hobbies which include offroad d
   - Elastic Search,
   - BDD,
   - Microservices
-- Agile Methodoligies: Scrum and Kanban
+- Agile Methodologies: Scrum and Kanban
 
 ### [iManage](https://imanage.com/)
 
