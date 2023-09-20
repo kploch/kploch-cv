@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Krzysztof Ploch
-modified: 2023-09-18T21:04:56.503Z
+modified: 2023-09-20T10:48:32.903Z
 ---
 
 # Krzysztof Ploch
@@ -10,6 +10,10 @@ Mobile: (+48) 533 051 519, (+44) 78 188 13 122
 
 Email: <kris@ploch.dev><br/>
 LinkedIn: <http://www.linkedin.com/in/netdeveloper><br/>
+GitHub Organizations:
+<https://github.com/kploch>
+<https://github.com/mrploch>
+
 D.O.B. 13 March 1978<br/>
 Citizenship: British, Polish
 
