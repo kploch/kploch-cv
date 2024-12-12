@@ -21,16 +21,22 @@ Citizenship: British, Polish
 
 Software developer, architect and technologist fascinated with everything related to Software Development.
 
-My focus is the customer and developer satisfaction by delivering maintainable solutions with a heavy push for automation. But still, the customers come first!
+I focus on customer and satisfaction, so I deliver maintainable solutions with a heavy push for automation. But the customers always come first!
+I mentioned developers because a lot of my work is to provide tools for other developers, which I love to do.
 
 ## Currently
 
-The main development ecosystem I\'m working in is the .NET (.NET 7) which I have the expert knowledge of.
-I am architecting and implementing solutions for structured and unstructured data ingestion and processing for the [Open Text Voltage Fusion](https://www.microfocus.com/en-us/cyberres/data-privacy-protection/voltage-fusion).
+The main development ecosystem I\'m working in is the .NET (.NET 9) which I have expert knowledge of.
+I am architecting and implementing structured and unstructured data ingestion and processing solutions for the [Open Text Voltage Fusion](https://www.microfocus.com/en-us/cyberres/data-privacy-protection/voltage-fusion).
 
-One of my recent addition to this suite was a framework for building agents which plug into the platform and allow analysis of an
-new repository types.
+Recently I have designed a CQRS framework for building distributed components quicker and according to Clean Architecture.
+
+Prior to that, I have designed a framework for building agents which are the OpenText File Analysis Suite platform plugins allowing analysis of new types of repositories.
 It has cut down the time needed to develop connectors from weeks to days or even hours (depending on the complexity of the target system).
+The approach was developer-centered, allowing for easy adoption and a gradual learning curve.
+One of the first developers to try it said that "it's easy to learn, fun to develop and very powerful" which was probably the nicest, most gratifying thing a developer
+building a framework can hear.
+I'm also doing some development just for fun :) Check out 
 
 ## SKILLS
 
