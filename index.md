@@ -6,7 +6,7 @@ modified: 2023-09-20T10:48:32.903Z
 
 # Krzysztof Ploch
 
-Mobile: (+48) 533 051 519, (+44) 78 188 13 122
+Mobile: (+48) 730 999 943, (+44) 78 188 13 122
 
 Email: <kris@ploch.dev><br/>
 LinkedIn: <http://www.linkedin.com/in/netdeveloper><br/>
